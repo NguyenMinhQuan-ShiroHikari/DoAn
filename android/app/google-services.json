@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343680502527",
+    "firebase_url": "https://demoql-2051c-default-rtdb.firebaseio.com",
+    "project_id": "demoql-2051c",
+    "storage_bucket": "demoql-2051c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343680502527:android:bacb3804e2628541779aca",
+        "android_client_info": {
+          "package_name": "com.demoql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343680502527-3uttkech86neg24qad43p3sn2s3tt7m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demoql",
+            "certificate_hash": "eda42af38dbe19e090f15df5b8bf1524bce7e13c"
+          }
+        },
+        {
+          "client_id": "343680502527-ujrhbpro2lfdg44saevicef0mseoj6kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM13ZejIzk3gTTK7i636iLVRjfTcuc6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343680502527-ujrhbpro2lfdg44saevicef0mseoj6kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
